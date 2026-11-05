@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-recording-filament",
+  "capabilityKey": "liberusoftware/music-recording",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/music-recording-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/music/nextjs/recording.md",
+  "presentationPlan": "projects/music/filament/recording.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
